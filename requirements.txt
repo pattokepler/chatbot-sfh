@@ -1,0 +1,17 @@
+langchain
+langchain-anthropic
+langchain-chroma
+langchain-community
+langchain-core
+langchain-groq
+langchain-openai
+langchain-text-splitters
+langdetect
+langsmith
+lazy_loader
+groq
+python-dotenv
+streamlit
+streamlit-chat
+streamlit-option-menu
+sentence-transformers
